@@ -1,1 +1,0 @@
-	alert("Everything about coronavirus was lifted from different webistes.\nDesign fully done by FrOsTEYE\nBest viewed on mobile. Well, desktop mode looks good too");
